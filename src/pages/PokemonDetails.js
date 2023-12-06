@@ -74,7 +74,7 @@ export default function PokemonDetails() {
                         ))}
                     </ol>
                 </div>
-            </div >
+            </div>
 
             <div className="stats">
                 <h3>Base Stats:</h3>
